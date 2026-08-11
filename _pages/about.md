@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a pre-doctoral research associate at Duke University's Nicholas School of the Environment, working with Professors Yichun Fan and Martin Smith. I hold a Master's in Political Economy from Duke University and a B.Econ from Renmin University of China.
+I am a pre-doctoral research associate at Duke University's Nicholas School of the Environment, working with Professors Yichun Fan and Martin Smith. I hold a M.A. in Political Economy from Duke University and a B.A. in Economics and Agticultural Economics from Renmin University of China.
 
 My research sits at the intersection of political economy, coupling human and nature system, and computational social science. I use tools spanning system dynamics, optimal control, game theory, agent-based modeling, and quasi-experimental causal inference (Python, R, Stata, MATLAB).
 
