@@ -4,7 +4,7 @@ excerpt: "An agent-based model demo simulating how bureaucratic cascades emerge 
 collection: portfolio
 ---
 
-This project builds an agent-based model (Python) that simulates bureaucratic cascade dynamics under central-local political incentive structures in contemporary China. It serves as a companion simulation to my working paper "Administrative Reform as Institutional Purge: Evidence from Vietnam," testing whether the comparative statics derived from the formal (game-theoretic) model survive when agents have only local information and bounded rationality rather than full common knowledge.
+This project builds an agent-based model (Python) that simulates bureaucratic cascade dynamics under central-local political incentive structures in contemporary China. It serves as a companion simulation to my working paper "Distorting Bureaucratic Representation: Personalization and Authoritarian State Capacity," testing whether the comparative statics derived from the formal (game-theoretic) model survive when agents have only local information and bounded rationality rather than full common knowledge.
 
 
 **Repository:** [github.com/QingwenDeng0920/bureaucratic-cascade](https://github.com/QingwenDeng0920/bureaucratic-cascade)
