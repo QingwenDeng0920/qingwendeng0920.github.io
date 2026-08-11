@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.A. in Analytical Political Economy, Duke University, 2026
-* B.A. in Economics; B.M. in Management, Renmin University of China, 2024
+* B.A. in Economics; B.A. in Agricultural Economics, Renmin University of China, 2024
 * Exchange Student, The University of Hong Kong, 2022
 
 Research Experience
@@ -31,6 +31,7 @@ Research Experience
 
 Working Papers
 ======
+* "A Unified Dynamic model of Agricultural Modernalization, Genetic Erosion, and Institutional Capacity Building" (single-authored). Working paper.
 * "Political Windows and the Dynamics of Temporary Pollution Abatement" (single-authored). Working paper.
 * "Administrative Reform as Institutional Purge: Evidence from Vietnam" (with Xiongfu Xiao and Shaoxuanzi Sheng). Working paper, under review at *British Journal of Political Science*.
 * "When Campaigns Are Routinized: Fragmentation, Authoritarianism, and State Capacity in China's Environmental Governance" (with Xionfu Xiao and Qinnan Zhou). Working paper.
