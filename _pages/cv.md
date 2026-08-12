@@ -35,7 +35,7 @@ Working Papers
 * "Political Windows and the Dynamics of Temporary Pollution Abatement" (single-authored). Working paper.
 * "Administrative Reform as Institutional Purge: Evidence from Vietnam" (with Xiongfu Xiao and Shaoxuanzi Sheng). Working paper.
 * "When Campaigns Are Routinized: Fragmentation, Authoritarianism, and State Capacity in China's Environmental Governance" (with Xionfu Xiao and Qinnan Zhou). Working paper.
-* "Allocating Property Rights:Extraction without Development in Cambodia" (with Xiongfu Xiao, Qinnan Zhou and Hui Yang). Working paper.
+* "Allocating Property Rights: Extraction without Development in Cambodia" (with Xiongfu Xiao, Qinnan Zhou and Hui Yang). Working paper.
 * "Preference Falsification in Ethnic Identification of Newborns in Inter-ethnic Family" (single-authored). Working paper.
 
 Work in Progress
