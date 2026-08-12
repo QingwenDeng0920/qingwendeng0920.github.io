@@ -2,9 +2,9 @@
 title: "Administrative Reclassification, Preferential Policy, and Identity Choice: Evidence from Ethnic Autonomy in China"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-08-01-ethnic-autonomy
+permalink: /publication/2026-06-01-ethnic-autonomy
 excerpt: 'How do political institutions reshape the social categories citizens claim? Using China''s ethnic autonomy system, this paper shows that preferential policies shift ethnic identification among inter-ethnic families, with effects accumulating across cohorts and depending critically on the political process behind administrative reclassification.'
-date: 2026-08-01
+date: 2026-06-01
 venue: 'Working paper'
 citation: 'Deng, Qingwen. 2026. &quot;Administrative Reclassification, Preferential Policy, and Identity Choice: Evidence from Ethnic Autonomy in China.&quot; Working paper, Duke University.'
 ---
