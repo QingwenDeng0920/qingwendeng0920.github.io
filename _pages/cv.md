@@ -31,7 +31,7 @@ Research Experience
 
 Working Papers
 ======
-* "Capacity Before Promotion: A Dynamic Ecological-Economic Model of Agricultural Modernization and Crop Genetic Erosion" (single-authored) under review at Ecological Economics.
+* "Capacity Before Promotion: A Dynamic Ecological-Economic Model of Agricultural Modernization and Crop Genetic Erosion" (single-authored). Working Paper.
 * "Regulatory Visibility Windows and Environmental Strategy: Evidence from Temporary Pollution Abatement" (single-authored) under review at Business Strategy and the Environment.
 * "Administrative Reform as Institutional Purge: Evidence from Vietnam" with Xiongfu Xiao and Shaoxuanzi Sheng under review at Studies in Comparative International Development.
 * "Allocating Property Rights: Extraction without Development in Cambodia" with Xiongfu Xiao, Qinnan Zhou and Hui Yang under review at World Development.
