@@ -31,17 +31,17 @@ Research Experience
 
 Working Papers
 ======
-* "Capacity Before Promotion: A Dynamic Ecological-Economic Model of Agricultural Modernization and Crop Genetic Erosion" (single-authored). Working paper.
-* "Political Windows and the Dynamics of Temporary Pollution Abatement" (single-authored). Working paper.
-* "Administrative Reform as Institutional Purge: Evidence from Vietnam" (with Xiongfu Xiao and Shaoxuanzi Sheng). Working paper.
-* "When Campaigns Are Routinized: Fragmentation, Authoritarianism, and State Capacity in China's Environmental Governance" (with Xionfu Xiao and Qinnan Zhou). Working paper.
-* "Allocating Property Rights: Extraction without Development in Cambodia" (with Xiongfu Xiao, Qinnan Zhou and Hui Yang). Working paper.
+* "Capacity Before Promotion: A Dynamic Ecological-Economic Model of Agricultural Modernization and Crop Genetic Erosion" (single-authored) under review at Ecological Economics.
+* "Regulatory Visibility Windows and Environmental Strategy: Evidence from Temporary Pollution Abatement" (single-authored) under review at Business Strategy and the Environment.
+* "Administrative Reform as Institutional Purge: Evidence from Vietnam" with Xiongfu Xiao and Shaoxuanzi Sheng under review at Studies in Comparative International Development.
+* "Allocating Property Rights: Extraction without Development in Cambodia" with Xiongfu Xiao, Qinnan Zhou and Hui Yang under review at World Development.
 * "Preference Falsification in Ethnic Identification of Newborns in Inter-ethnic Family" (single-authored). Working paper.
 
 Work in Progress
 ======
 * "The Long-term Effects of New Method of Birth Delivery" with Yinan Liu and Boxiao Zhang
-* "Distorting Bureaucratic Representation: Authoritarian Personalization and Two-Dimensional State Capacity" (with Xiongfu Xiao). To be presented at APSA 2026.
+* "When Campaigns Are Routinized: Fragmentation, Authoritarianism, and State Capacity in China's Environmental Governance" with Xionfu Xiao and Qinnan Zhou.
+* "Distorting Bureaucratic Representation: Authoritarian Personalization and Two-Dimensional State Capacity" with Xiongfu Xiao. 2026 APSA Annual Meeting.
   
 
 Selected Coursework
